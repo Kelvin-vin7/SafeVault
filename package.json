@@ -1,7 +1,7 @@
 {
   "name": "safevault",
   "version": "1.0.0",
-  "description": "SafeVault - secure vault API with input validation, SQL injection prevention, authentication, RBAC and security tests (built with Microsoft Copilot)",
+  "description": "SafeVault - secure vault API with input validation, SQL injection prevention, authentication, RBAC and security tests",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
